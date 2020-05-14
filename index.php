@@ -3,9 +3,8 @@
   <title>Teste PHP</title>
  </head>
  <body>
- <?php echo "<p>Olá Mundo, eh só mais uma página teste!</p>"; ?>
-  
-  <?php
+ <?php echo "<p>Olá Mundo, eh só mais uma página teste!</p>";
+	 
 $valor1 = 40;
 $valor2 = 20;
 
