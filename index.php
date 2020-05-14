@@ -15,9 +15,7 @@ else if (  $valor2 > $valor1 )
   echo "A variável $valor2 é maior que a variável $valor1";
 else
   echo "A variável $valor1 é igual à variável $valor2";
-?>
-  
-  <?php
+
 function retornaDiv($n){
 	$divisores = array();
 	/* Tenta dividir por todos os números entre 1 e a metade inferior do número */
